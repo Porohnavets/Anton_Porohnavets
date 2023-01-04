@@ -1,0 +1,27 @@
+{
+  "name": "core-css-layout-site",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Продолжим создавать оригинальные веб-страницы. Теперь тебе предстоит создать собственный сайт!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Porohnavets/core-css-layout-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Porohnavets/core-css-layout-site/issues"
+  },
+  "homepage": "https://github.com/Porohnavets/core-css-layout-site#readme",
+  "devDependencies": {
+    "@html-eslint/eslint-plugin": "^0.15.0",
+    "@html-eslint/parser": "^0.15.0",
+    "eslint": "^8.30.0",
+    "eslint-plugin-react": "^7.31.11"
+  }
+}
