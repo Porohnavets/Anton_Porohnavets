@@ -273,11 +273,6 @@ svg:hover {
   width: 300px;
   border-radius: 2%;
 }
-.about_img:hover {
-  background-color: transparent;
-  background: url(img/IMG_2993\ —\ копия.jpg);
-  background-size: cover;
-}
 .number_heading_2::before {
   content: "02.";
   font-size: 20px;
