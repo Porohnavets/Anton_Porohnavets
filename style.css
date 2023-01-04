@@ -267,13 +267,11 @@ svg:hover {
   --val: 1;
 }
 .about_img {
-  background: linear-gradient(#fff2008c, #fff2008c),
-    url(img/IMG_2993\ —\ копия.jpg);
+  background: url(img/IMG_2993\ —\ копия.jpg);
   background-size: cover;
   height: 300px;
   width: 300px;
   border-radius: 2%;
-  cursor: pointer;
 }
 .about_img:hover {
   background-color: transparent;
